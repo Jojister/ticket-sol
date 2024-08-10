@@ -1,0 +1,18 @@
+{
+  "name": "ticket-sol",
+  "version": "1.0.0",
+  "description": "Ticket master clone utilizing solidity smart contracts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joji Araki",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.8.3"
+  }
+}
